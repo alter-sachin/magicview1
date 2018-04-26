@@ -331,6 +331,6 @@ main {
 
 @media only screen and (max-width: 450px) {
     #thislogo {
-        width: 55px;
+        width: 55px !important;
     }
 }
